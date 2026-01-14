@@ -12,7 +12,7 @@
 
         .n8n-chat-widget .chat-container {
             position: fixed;
-            bottom: 20px;
+            bottom: 150px;
             right: 20px;
             z-index: 1000;
             display: none;
@@ -220,7 +220,7 @@
 
         .n8n-chat-widget .chat-toggle {
             position: fixed;
-            bottom: 20px;
+            bottom: 150px;
             right: 20px;
             width: 60px;
             height: 60px;
